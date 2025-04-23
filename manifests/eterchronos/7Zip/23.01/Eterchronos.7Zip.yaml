@@ -1,0 +1,5 @@
+PackageIdentifier: Eterchronos.7Zip
+PackageVersion: 23.01
+DefaultLocale: en-US
+ManifestType: singleton
+ManifestVersion: 1.4.0
