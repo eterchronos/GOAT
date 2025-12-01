@@ -7,7 +7,7 @@ InstallerType: exe
 Installers:
   - Architecture: x64
     InstallerUrl: https://raw.githubusercontent.com/eterchronos/GOAT/main/installers/7z2501-x64.exe
-    InstallerSha256: 78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f
+    InstallerSha256: "78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f"
 
 InstallerSwitches:
   Silent: "/S"
