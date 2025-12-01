@@ -1,0 +1,17 @@
+{
+  "version": "25.01",
+  "description": "7-Zip version custom (GOAT)",
+  "homepage": "https://www.7-zip.org/",
+  "license": "LGPL-2.1",
+  "architecture": {
+    "64bit": {
+      "url": "https://raw.githubusercontent.com/eterchronos/GOAT/main/GOAT/installers/7z2501-x64.exe",
+      "hash": "78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f"
+    }
+  },
+  "innosetup": true,
+  "bin": [
+    "7z.exe",
+    "7zFM.exe"
+  ]
+}
