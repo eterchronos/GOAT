@@ -1,0 +1,15 @@
+PackageIdentifier: GOAT.7Zip
+PackageName: 7-Zip (Custom)
+PackageVersion: 25.01
+Publisher: GOAT
+InstallerType: exe
+
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://raw.githubusercontent.com/eterchronos/GOAT/main/installers/7z2501-x64.exe
+    InstallerSha256: 78afa2a1c773caf3cf7edf62f857d2a8a5da55fb0fff5da416074c0d28b2b55f
+
+InstallerSwitches:
+  Silent: "/S"
+
+Description: 7-Zip armazenado no repositório GOAT
