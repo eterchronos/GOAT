@@ -1,8 +1,0 @@
-PackageIdentifier: Eterchronos.7Zip
-PackageVersion: 23.01
-PackageLocale: en-US
-Publisher: Eterchronos
-PackageName: 7-Zip
-ShortDescription: A file archiver with a high compression ratio.
-ManifestType: locale
-ManifestVersion: 1.4.0
